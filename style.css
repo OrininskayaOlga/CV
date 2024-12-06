@@ -1,0 +1,205 @@
+body {
+	font-family: sans-serif;
+    background-color: white;
+}
+
+.main {
+    border-color: red;
+    margin-bottom: 50px;
+}
+
+.photo_text_1 {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+	height: 901px;
+	opacity: 1;
+	background-image: url(img/qa_photo4.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	
+
+}
+
+
+.photo {
+    display: flex;
+	flex-direction: column;
+    margin-right: 100px;
+	
+}
+ .my_photo {
+	border-radius: 50px;
+ }
+
+.text_1 {
+    height: 800px;
+    width: 1000px;
+    display: flex;
+	flex-direction: column;
+}
+
+.heading_1 {
+	font-size: 41px;
+	line-height: 30px;
+	text-align: center;
+	color: #1F3F68;
+	letter-spacing: 0.05em;
+	margin-bottom: 90px;
+}
+
+.text {
+	font-size: 25px;
+	line-height: 35px;
+	text-align: left;
+	margin-left: 20px;
+	color: #1F3F68;
+	letter-spacing: 0.05em;
+	opacity: 0.6;
+	
+	display: flex;
+}
+
+.text_contact {
+	font-size: 20px;
+	font-weight: 300;
+	line-height: 30px;
+	letter-spacing: 0.05em;
+	text-align: left;
+	margin-left: 20px;
+	color: #1F3F68;
+	
+	
+}
+
+
+.skills {
+	margin-top: 100px;
+}
+
+.heading_skills {
+	font-size: 36px;
+	text-align: center;
+	letter-spacing: 0.05em;
+	color: #1F3F68;
+	margin-bottom: 10px;
+}
+
+.skills_3 {
+
+	background-image: url(img/skills_photo.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	margin-top: 0px;
+	margin-bottom: 100px;
+	height: 450px;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.skills_front {
+    border: 3px solid #000;
+    border-color: #1F3F68;
+	height: 400px;
+    width: 300px;
+	display: flex;
+	flex-direction: column;
+	margin-right: 100px;
+	background-color: rgb(200, 199, 239);
+	border-radius: 30px;
+}
+
+.skills_back {
+	border: 3px solid #000;
+    border-color: #1F3F68;
+	height: 400px;
+    width: 300px;
+	display: flex;
+	flex-direction: column;
+	margin-right: 100px;
+	background-color: rgb(200, 199, 239);
+	border-radius: 30px;
+}
+
+.skills_app {
+	border: 3px solid #000;
+    border-color: #1F3F68;
+	height: 400px;
+    width: 300px;
+	display: flex;
+	flex-direction: column;
+	background-color: rgb(200, 199, 239);
+	border-radius: 30px;
+}
+
+.text_skills {
+	font-size: 20px;
+	line-height: 30px;
+	text-align: center;
+	color: #1F3F68;
+	letter-spacing: 0.05em;
+	margin-bottom: 14px;
+}
+
+.text_skills_list {
+	font-size: 16px;
+	line-height: 26px;
+	text-align: left;
+	margin-left: 20px;
+	color: #1F3F68;
+	letter-spacing: 0.05em;
+	opacity: 0.6;
+}
+
+
+
+.head_chester {
+
+    margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.chester {
+
+	margin-bottom: 10px;
+	height: 500px;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.head_chester_text {
+	font-size: 36px;
+	text-align: center;
+	letter-spacing: 0.05em;
+	color: #1F3F68;
+	margin-bottom: 10px;
+}
+
+.photo_chester {
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 50px;
+}
+
+.chester_telegram_link {
+	font-size: 22px;
+	line-height: 30px;
+	text-align: center;
+	color: #1F3F68;
+	letter-spacing: 0.05em;
+	margin-bottom: 14px;
+	margin-left: 20px;
+
+}
+.telegram_logo {
+
+	height: 30px;
+    width: 30px;
+	margin-right: 10px;
+
+}
